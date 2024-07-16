@@ -4,7 +4,7 @@
 
 # Hello! I'm André Rosatto
 
-### Welcome to my Github account.
+### Welcome to my Github account!
 - I'm a front-end web developer living in Itapira, Brazil.
 - I'm currently working mainly with HTML, CSS, Javascript, Typescript, and React.
 - I started programming as a hobby over 20 years ago.
