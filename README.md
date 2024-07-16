@@ -42,6 +42,8 @@
 	<img height="50" src="https://github.com/user-attachments/assets/1edfc84d-5043-42d7-aa64-ff457c98938b" alt="Angular" title="Angular"/>
 	<img height="50" src="https://github.com/user-attachments/assets/1f665f79-d1a3-464f-b4ac-3916b5d1a38b" alt="NPM" title="NPM"/>
 	<img height="50" src="https://github.com/user-attachments/assets/d7f45d1e-cd03-485d-863f-5bfbb8e481d4" alt="Node.js" title="Node.js"/>
+	<img height="50" src="https://github.com/user-attachments/assets/919bcac7-7f81-487e-8750-1a2c01011194" alt="Webpack" title="Webpack"/>
+	<img height="50" src="https://github.com/user-attachments/assets/5f901dda-2637-4f04-ba73-507a7071f28e" alt="Gulp" title="Gulp"/>
 	<img height="50" src="https://github.com/user-attachments/assets/2e7811dd-bdd5-4d78-a7b7-8a876c2f6da7" alt="Docker" title="Docker"/>
 	<img height="50" src="https://github.com/user-attachments/assets/6e509a01-85c8-4489-8e16-1dbc9fee8cab" alt="Phaser" title="Phaser"/>
 	<img height="50" src="https://github.com/user-attachments/assets/200d2c39-5697-49b1-8f54-a25dcd21036e" alt="PixiJS" title="PixiJS"/>
