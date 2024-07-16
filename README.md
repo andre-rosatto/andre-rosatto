@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://github.com/user-attachments/assets/8eb10f05-2174-45ac-bd28-8ba312354087"/>
+	<img height="300" src="https://github.com/user-attachments/assets/8eb10f05-2174-45ac-bd28-8ba312354087"/>
 </div>
 
 ### Hello! I'm André Rosatto
@@ -16,7 +16,9 @@ Welcome to my my Github account.
   <img width="50" src="https://github.com/user-attachments/assets/7c59f579-8108-4064-b758-5aa207f23e81" alt="CSS" title="CSS"/>
 	<img width="50" src="https://github.com/user-attachments/assets/d8dcb273-05ed-4ba4-86b1-9bf6f882bd5e" alt="JavaScript" title="JavaScript"/>
   <img width="50" src="https://github.com/user-attachments/assets/262eb873-1f66-40c3-9261-c05604451284" alt="TypeScript" title="TypeScript"/>
-  <img width="50" src="https://github.com/user-attachments/assets/958af20f-198d-465a-b381-7578c6eb136f" alt="React" title="React"/>
+  <img width="50" src="https://github.com/user-attachments/assets/958af20f-198d-465a-b381-7578c6eb136f" alt="React.js" title="React.js"/>
+	<img width="50" src="https://github.com/user-attachments/assets/872e6619-e721-4f48-81e0-8454d43380f9" alt="PHP" title="PHP"/>
+	<img width="50" src="https://github.com/user-attachments/assets/c1640d19-49ff-40f3-9cca-51e8799d6583" alt="MySQL" title="MySQL"/>
 </div>
 
 ## Programming languages I've worked with
@@ -29,10 +31,11 @@ Welcome to my my Github account.
 
 ### Javascript tools/frameworks I've worked with
 <div>
-	<img width="50" src="https://github.com/user-attachments/assets/958af20f-198d-465a-b381-7578c6eb136f" alt="React" title="React"/>
+	<img width="50" src="https://github.com/user-attachments/assets/958af20f-198d-465a-b381-7578c6eb136f" alt="React.js" title="React.js"/>
 	<img width="50" src="https://github.com/user-attachments/assets/1edfc84d-5043-42d7-aa64-ff457c98938b" alt="Angular" title="Angular"/>
-	<img width="50" src="https://github.com/user-attachments/assets/1f665f79-d1a3-464f-b4ac-3916b5d1a38b" alt="npm" title="npm"/>
-	<img width="50" src="https://github.com/user-attachments/assets/d7f45d1e-cd03-485d-863f-5bfbb8e481d4" alt="Node" title="Node"/>
+	<img width="50" src="https://github.com/user-attachments/assets/1f665f79-d1a3-464f-b4ac-3916b5d1a38b" alt="NPM" title="NPM"/>
+	<img width="50" src="https://github.com/user-attachments/assets/d7f45d1e-cd03-485d-863f-5bfbb8e481d4" alt="Node.js" title="Node.js"/>
+	<img width="50" src="https://github.com/user-attachments/assets/2e7811dd-bdd5-4d78-a7b7-8a876c2f6da7" alt="Docker" title="Docker"/>
 </div>
 
 ### UI/design tools I've used
@@ -41,31 +44,26 @@ Welcome to my my Github account.
 	<img width="50" src="https://github.com/user-attachments/assets/74bfd74d-76a9-44da-b994-34b18694697c" alt="Adobe Xd" title="Adobe Xd"/>
 	<img width="50" src="https://github.com/user-attachments/assets/b72a3406-a679-40f9-b441-ccbaf72018c1" alt="Adobe Illustrator" title="Adobe Illustrator"/>
 	<img width="50" src="https://github.com/user-attachments/assets/5c2c0e85-57a3-41b2-a862-846c51f61a8f" alt="Adobe Photoshop" title="Adobe Photoshop"/>
+	<img width="50" src="https://github.com/user-attachments/assets/7e5d15f2-d68b-4694-8b6d-7ceadc5d80ba" alt="Affinity Photo" title="Affinity Photo"/>
+	<img width="50" src="https://github.com/user-attachments/assets/190cc755-a3ea-4785-b821-408c446fe4f0" alt="Affinity Designer" title="Affinity Designer"/>
 	<img width="50" src="https://github.com/user-attachments/assets/c63800ed-b12b-40c2-a438-4c726593075e" alt="Inkscape" title="Inkscape"/>
 </div>
 
 ### Version Control
 <div>
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/>
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108375-268c35e6-ab26-44b2-88bf-e3121a4e5083.png" alt="Bitbucket" title="Bitbucket"/>
+	<img width="50" src="https://github.com/user-attachments/assets/3003db33-8ad2-40ee-b8b8-c078551ac8cb" alt="Git" title="Git"/>
+	<img width="50" src="https://github.com/user-attachments/assets/471392ca-a19f-44af-8cfb-32178002fb2c" alt="Github" title="Github"/>
 </div>
 
 ### Communication
 <div>
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/>
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/>
+	<img width="50" src="https://github.com/user-attachments/assets/b7f829d4-1d12-4652-a1c4-ddb6284943ff" alt="HTTP" title="HTTP"/>
+	<img width="50" src="https://github.com/user-attachments/assets/9a1511ab-95e8-4ea6-9197-0c2c00f6283c" alt="REST" title="RESTub"/>
 </div>
 
 ## My stats
 <div align="center">
-	
-![carolinarosatto's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinarosatto&theme=jolly&show_icons=true&hide_border=false&layout=compact)<br>
-
-![carolinarosatto's Stats](https://github-readme-stats.vercel.app/api?username=carolinarosatto&theme=jolly&show_icons=true&hide_border=false&count_private=true)<br>
-
-![carolinarosatto's Streak](https://github-readme-streak-stats.herokuapp.com/?user=carolinarosatto&theme=jolly&hide_border=false)<br>
-
+	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-rosatto)](https://github.com/andre-rosatto/github-readme-stats)
 </div>
 
 
