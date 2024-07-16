@@ -1,5 +1,72 @@
-Meu nome é André Rosatto, e sou um Desenvolvedor Web Front-End.
+<div align="center">
+	<img src="https://github.com/user-attachments/assets/8eb10f05-2174-45ac-bd28-8ba312354087"/>
+</div>
 
-Após me formar em Letras, iniciei minha jornada profissional como professor e tradutor de inglês, mas, desde criança, sempre tive muito interesse em programação.
-Percebi que o que era apenas um hobby para mim estava se tornando uma paixão, e decidi fazer um curso de Desenvolvimento Web Front-End para aprimorar os meus conhecimentos e buscar uma mudança de carreira.
-Nesse percurso, tive passagem por várias tecnologias como C# e Python, mas achei o meu caminho em HTML, CSS, Javascript, Typescript e React, e foi nisso que me especializei.
+### Hello! I'm André Rosatto
+
+Welcome to my my Github account.
+- I'm a front-end web developer living in Itapira, Brazil.
+- I'm currently working mainly with HTML, CSS, Javascript, Typescript, and React.
+- I started programming as a hobby over 20 years ago.
+- I'm a fluent/advanced English speaker.
+
+## Currently working with
+<div>
+  <img width="50" src="https://github.com/user-attachments/assets/6364c31a-da0f-4ee8-a69f-f33ad1f7c921" alt="HTML" title="HTML"/>
+  <img width="50" src="https://github.com/user-attachments/assets/7c59f579-8108-4064-b758-5aa207f23e81" alt="CSS" title="CSS"/>
+	<img width="50" src="https://github.com/user-attachments/assets/d8dcb273-05ed-4ba4-86b1-9bf6f882bd5e" alt="JavaScript" title="JavaScript"/>
+  <img width="50" src="https://github.com/user-attachments/assets/262eb873-1f66-40c3-9261-c05604451284" alt="TypeScript" title="TypeScript"/>
+  <img width="50" src="https://github.com/user-attachments/assets/958af20f-198d-465a-b381-7578c6eb136f" alt="React" title="React"/>
+</div>
+
+## Programming languages I've worked with
+<div>
+	<img width="50" src="https://github.com/user-attachments/assets/d8dcb273-05ed-4ba4-86b1-9bf6f882bd5e" alt="JavaScript" title="JavaScript"/>
+  <img width="50" src="https://github.com/user-attachments/assets/262eb873-1f66-40c3-9261-c05604451284" alt="TypeScript" title="TypeScript"/>
+  <img width="50" src="https://github.com/user-attachments/assets/ed119146-48f7-4b33-8ab3-8fcdb6a435ef" alt="Python" title="Python"/>
+  <img width="50" src="https://github.com/user-attachments/assets/f2dbb70a-378e-41ee-a20e-7708de865a36" alt="C#" title="C#"/>
+</div>
+
+### Javascript tools/frameworks I've worked with
+<div>
+	<img width="50" src="https://github.com/user-attachments/assets/958af20f-198d-465a-b381-7578c6eb136f" alt="React" title="React"/>
+	<img width="50" src="https://github.com/user-attachments/assets/1edfc84d-5043-42d7-aa64-ff457c98938b" alt="Angular" title="Angular"/>
+	<img width="50" src="https://github.com/user-attachments/assets/1f665f79-d1a3-464f-b4ac-3916b5d1a38b" alt="npm" title="npm"/>
+	<img width="50" src="https://github.com/user-attachments/assets/d7f45d1e-cd03-485d-863f-5bfbb8e481d4" alt="Node" title="Node"/>
+</div>
+
+### UI/design tools I've used
+<div>
+	<img width="50" src="https://github.com/user-attachments/assets/6995e75d-f2c0-4cab-9c36-dce6e4af52ae" alt="Figma" title="Figma"/>
+	<img width="50" src="https://github.com/user-attachments/assets/74bfd74d-76a9-44da-b994-34b18694697c" alt="Adobe Xd" title="Adobe Xd"/>
+	<img width="50" src="https://github.com/user-attachments/assets/b72a3406-a679-40f9-b441-ccbaf72018c1" alt="Adobe Illustrator" title="Adobe Illustrator"/>
+	<img width="50" src="https://github.com/user-attachments/assets/5c2c0e85-57a3-41b2-a862-846c51f61a8f" alt="Adobe Photoshop" title="Adobe Photoshop"/>
+	<img width="50" src="https://github.com/user-attachments/assets/c63800ed-b12b-40c2-a438-4c726593075e" alt="Inkscape" title="Inkscape"/>
+</div>
+
+### Version Control
+<div>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108375-268c35e6-ab26-44b2-88bf-e3121a4e5083.png" alt="Bitbucket" title="Bitbucket"/>
+</div>
+
+### Communication
+<div>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/>
+</div>
+
+## My stats
+<div align="center">
+	
+![carolinarosatto's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinarosatto&theme=jolly&show_icons=true&hide_border=false&layout=compact)<br>
+
+![carolinarosatto's Stats](https://github-readme-stats.vercel.app/api?username=carolinarosatto&theme=jolly&show_icons=true&hide_border=false&count_private=true)<br>
+
+![carolinarosatto's Streak](https://github-readme-streak-stats.herokuapp.com/?user=carolinarosatto&theme=jolly&hide_border=false)<br>
+
+</div>
+
+
+
