@@ -58,13 +58,11 @@ Welcome to my my Github account.
 ### Communication
 <div>
 	<img width="50" src="https://github.com/user-attachments/assets/b7f829d4-1d12-4652-a1c4-ddb6284943ff" alt="HTTP" title="HTTP"/>
-	<img width="50" src="https://github.com/user-attachments/assets/9a1511ab-95e8-4ea6-9197-0c2c00f6283c" alt="REST" title="RESTub"/>
+	<img width="50" src="https://github.com/user-attachments/assets/9a1511ab-95e8-4ea6-9197-0c2c00f6283c" alt="REST" title="REST"/>
 </div>
 
 ## My stats
-<div align="center">
-	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-rosatto)](https://github.com/andre-rosatto/github-readme-stats)
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-rosatto)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
