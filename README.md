@@ -16,6 +16,7 @@
 <div>
 	<img height="50" src="https://github.com/user-attachments/assets/6364c31a-da0f-4ee8-a69f-f33ad1f7c921" alt="HTML" title="HTML"/>
 	<img height="50" src="https://github.com/user-attachments/assets/7c59f579-8108-4064-b758-5aa207f23e81" alt="CSS" title="CSS"/>
+	<img height="50" src="https://github.com/user-attachments/assets/cebbc1fc-0e12-49ab-a2b4-de67a22f7076" alt="Sass" title="Sass"/>
 	<img height="50" src="https://github.com/user-attachments/assets/d8dcb273-05ed-4ba4-86b1-9bf6f882bd5e" alt="JavaScript" title="JavaScript"/>
 	<img height="50" src="https://github.com/user-attachments/assets/262eb873-1f66-40c3-9261-c05604451284" alt="TypeScript" title="TypeScript"/>
 	<img height="50" src="https://github.com/user-attachments/assets/958af20f-198d-465a-b381-7578c6eb136f" alt="React" title="React"/>
@@ -73,6 +74,7 @@
 <div>
 	<img height="50" src="https://github.com/user-attachments/assets/b7f829d4-1d12-4652-a1c4-ddb6284943ff" alt="HTTP" title="HTTP"/>
 	<img height="50" src="https://github.com/user-attachments/assets/9a1511ab-95e8-4ea6-9197-0c2c00f6283c" alt="REST" title="REST"/>
+	<img height="50" src="https://github.com/user-attachments/assets/405bfacc-e2d9-44cb-a501-1f8d1a917b73" alt="Scrum" title="Scrum"/>
 </div>
 
 ---
