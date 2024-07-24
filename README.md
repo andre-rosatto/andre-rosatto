@@ -43,6 +43,7 @@
 <img height="50" src="https://github.com/user-attachments/assets/2e7811dd-bdd5-4d78-a7b7-8a876c2f6da7" alt="Docker" title="Docker"/>
 <img height="50" src="https://github.com/user-attachments/assets/6e509a01-85c8-4489-8e16-1dbc9fee8cab" alt="Phaser" title="Phaser"/>
 <img height="50" src="https://github.com/user-attachments/assets/200d2c39-5697-49b1-8f54-a25dcd21036e" alt="PixiJS" title="PixiJS"/>
+<img height="50" src="https://github.com/user-attachments/assets/6a41f39a-b50f-4e70-ac8b-6061570ae7a9" alt="Materialize" title="Materialize"/>
 
 ---
 
