@@ -20,6 +20,7 @@
 <img height="50" src="https://github.com/user-attachments/assets/262eb873-1f66-40c3-9261-c05604451284" alt="TypeScript" title="TypeScript"/>
 <img height="50" src="https://github.com/user-attachments/assets/958af20f-198d-465a-b381-7578c6eb136f" alt="React" title="React"/>
 <img height="50" src="https://github.com/user-attachments/assets/872e6619-e721-4f48-81e0-8454d43380f9" alt="PHP" title="PHP"/>
+<img height="50" src="https://github.com/user-attachments/assets/c2663ab5-028f-4ea4-a8eb-0877e7276b52" alt="Laravel" title="Laravel"/>
 <img height="50" src="https://github.com/user-attachments/assets/c1640d19-49ff-40f3-9cca-51e8799d6583" alt="MySQL" title="MySQL"/>
 
 ---
@@ -27,14 +28,16 @@
 ## Programming languages I've worked with
 <img height="50" src="https://github.com/user-attachments/assets/d8dcb273-05ed-4ba4-86b1-9bf6f882bd5e" alt="JavaScript" title="JavaScript"/>
 <img height="50" src="https://github.com/user-attachments/assets/262eb873-1f66-40c3-9261-c05604451284" alt="TypeScript" title="TypeScript"/>
+<img height="50" src="https://github.com/user-attachments/assets/872e6619-e721-4f48-81e0-8454d43380f9" alt="PHP" title="PHP"/>
 <img height="50" src="https://github.com/user-attachments/assets/ed119146-48f7-4b33-8ab3-8fcdb6a435ef" alt="Python" title="Python"/>
 <img height="50" src="https://github.com/user-attachments/assets/f2dbb70a-378e-41ee-a20e-7708de865a36" alt="C#" title="C#"/>
 
 ---
 
-## Javascript tools/frameworks I've worked with
+## Tools/frameworks I've worked with
 <img height="50" src="https://github.com/user-attachments/assets/958af20f-198d-465a-b381-7578c6eb136f" alt="React" title="React"/>
 <img height="50" src="https://github.com/user-attachments/assets/1edfc84d-5043-42d7-aa64-ff457c98938b" alt="Angular" title="Angular"/>
+<img height="50" src="https://github.com/user-attachments/assets/c2663ab5-028f-4ea4-a8eb-0877e7276b52" alt="Laravel" title="Laravel"/>
 <img height="50" src="https://github.com/user-attachments/assets/1f665f79-d1a3-464f-b4ac-3916b5d1a38b" alt="NPM" title="NPM"/>
 <img height="50" src="https://github.com/user-attachments/assets/d7f45d1e-cd03-485d-863f-5bfbb8e481d4" alt="Node.js" title="Node.js"/>
 <img height="50" src="https://github.com/user-attachments/assets/a37b3b69-130c-4f9c-ab96-649581eb8740" alt="Postman" title="Postman"/>
