@@ -22,6 +22,7 @@
 <img height="50" src="https://github.com/user-attachments/assets/03517900-9c97-47d2-941f-3444f07f3745" alt="Vue" title="Vue"/>
 <img height="50" src="https://github.com/user-attachments/assets/872e6619-e721-4f48-81e0-8454d43380f9" alt="PHP" title="PHP"/>
 <img height="50" src="https://github.com/user-attachments/assets/c1640d19-49ff-40f3-9cca-51e8799d6583" alt="MySQL" title="MySQL"/>
+<img height="50" src="https://github.com/user-attachments/assets/1f665f79-d1a3-464f-b4ac-3916b5d1a38b" alt="NPM" title="NPM"/>
 
 ---
 
