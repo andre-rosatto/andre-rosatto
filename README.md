@@ -15,12 +15,12 @@
 ## Currently working with
 <img height="50" src="https://github.com/user-attachments/assets/6364c31a-da0f-4ee8-a69f-f33ad1f7c921" alt="HTML" title="HTML"/>
 <img height="50" src="https://github.com/user-attachments/assets/7c59f579-8108-4064-b758-5aa207f23e81" alt="CSS" title="CSS"/>
-<img height="50" src="https://github.com/user-attachments/assets/cebbc1fc-0e12-49ab-a2b4-de67a22f7076" alt="Sass" title="Sass"/>
+<img height="50" src="https://github.com/user-attachments/assets/7db5f8cb-145d-40b6-84fa-a23632ced92e" alt="Tailwind CSS" title="Tailwind CSS"/>
 <img height="50" src="https://github.com/user-attachments/assets/d8dcb273-05ed-4ba4-86b1-9bf6f882bd5e" alt="JavaScript" title="JavaScript"/>
 <img height="50" src="https://github.com/user-attachments/assets/262eb873-1f66-40c3-9261-c05604451284" alt="TypeScript" title="TypeScript"/>
 <img height="50" src="https://github.com/user-attachments/assets/958af20f-198d-465a-b381-7578c6eb136f" alt="React" title="React"/>
+<img height="50" src="https://github.com/user-attachments/assets/03517900-9c97-47d2-941f-3444f07f3745" alt="Vue" title="Vue"/>
 <img height="50" src="https://github.com/user-attachments/assets/872e6619-e721-4f48-81e0-8454d43380f9" alt="PHP" title="PHP"/>
-<img height="50" src="https://github.com/user-attachments/assets/c2663ab5-028f-4ea4-a8eb-0877e7276b52" alt="Laravel" title="Laravel"/>
 <img height="50" src="https://github.com/user-attachments/assets/c1640d19-49ff-40f3-9cca-51e8799d6583" alt="MySQL" title="MySQL"/>
 
 ---
@@ -36,8 +36,9 @@
 
 ## Tools/frameworks I've worked with
 <img height="50" src="https://github.com/user-attachments/assets/958af20f-198d-465a-b381-7578c6eb136f" alt="React" title="React"/>
+<img height="50" src="https://github.com/user-attachments/assets/03517900-9c97-47d2-941f-3444f07f3745" alt="Vue" title="Vue"/>
 <img height="50" src="https://github.com/user-attachments/assets/1edfc84d-5043-42d7-aa64-ff457c98938b" alt="Angular" title="Angular"/>
-<img height="50" src="https://github.com/user-attachments/assets/c2663ab5-028f-4ea4-a8eb-0877e7276b52" alt="Laravel" title="Laravel"/>
+<img height="50" src="https://github.com/user-attachments/assets/4df933c8-6bfa-4447-9a09-179a9d28388a" alt="Laravel" title="Laravel"/>
 <img height="50" src="https://github.com/user-attachments/assets/1f665f79-d1a3-464f-b4ac-3916b5d1a38b" alt="NPM" title="NPM"/>
 <img height="50" src="https://github.com/user-attachments/assets/d7f45d1e-cd03-485d-863f-5bfbb8e481d4" alt="Node.js" title="Node.js"/>
 <img height="50" src="https://github.com/user-attachments/assets/a37b3b69-130c-4f9c-ab96-649581eb8740" alt="Postman" title="Postman"/>
@@ -46,6 +47,8 @@
 <img height="50" src="https://github.com/user-attachments/assets/2e7811dd-bdd5-4d78-a7b7-8a876c2f6da7" alt="Docker" title="Docker"/>
 <img height="50" src="https://github.com/user-attachments/assets/6e509a01-85c8-4489-8e16-1dbc9fee8cab" alt="Phaser" title="Phaser"/>
 <img height="50" src="https://github.com/user-attachments/assets/200d2c39-5697-49b1-8f54-a25dcd21036e" alt="PixiJS" title="PixiJS"/>
+<img height="50" src="https://github.com/user-attachments/assets/cebbc1fc-0e12-49ab-a2b4-de67a22f7076" alt="Sass" title="Sass"/>
+<img height="50" src="https://github.com/user-attachments/assets/7db5f8cb-145d-40b6-84fa-a23632ced92e" alt="Tailwind CSS" title="Tailwind CSS"/>
 <img height="50" src="https://github.com/user-attachments/assets/6a41f39a-b50f-4e70-ac8b-6061570ae7a9" alt="Materialize" title="Materialize"/>
 
 ---
