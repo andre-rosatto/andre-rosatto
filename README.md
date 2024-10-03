@@ -56,7 +56,7 @@
 
 ## UI/design tools I've used
 <img height="50" src="https://github.com/user-attachments/assets/6995e75d-f2c0-4cab-9c36-dce6e4af52ae" alt="Figma" title="Figma"/>
-<img height="50" src="https://github.com/user-attachments/assets/74bfd74d-76a9-44da-b994-34b18694697c" alt="Adobe Xd" title="Adobe Xd"/>
+<img height="50" src="https://github.com/user-attachments/assets/74bfd74d-76a9-44da-b994-34b18694697c" alt="Adobe Xd" title="Adobe XD"/>
 <img height="50" src="https://github.com/user-attachments/assets/b72a3406-a679-40f9-b441-ccbaf72018c1" alt="Adobe Illustrator" title="Adobe Illustrator"/>
 <img height="50" src="https://github.com/user-attachments/assets/5c2c0e85-57a3-41b2-a862-846c51f61a8f" alt="Adobe Photoshop" title="Adobe Photoshop"/>
 <img height="50" src="https://github.com/user-attachments/assets/190cc755-a3ea-4785-b821-408c446fe4f0" alt="Affinity Designer" title="Affinity Designer"/>
