@@ -22,6 +22,7 @@
 <img height="50" src="https://github.com/user-attachments/assets/03517900-9c97-47d2-941f-3444f07f3745" alt="Vue" title="Vue"/>
 <img height="50" src="https://github.com/user-attachments/assets/872e6619-e721-4f48-81e0-8454d43380f9" alt="PHP" title="PHP"/>
 <img height="50" src="https://github.com/user-attachments/assets/c1640d19-49ff-40f3-9cca-51e8799d6583" alt="MySQL" title="MySQL"/>
+<img height="50" src="https://github.com/user-attachments/assets/2209df85-8438-4efb-8a7c-09c12c32aaa9" alt="Firebase" title="Firebase"/>
 <img height="50" src="https://github.com/user-attachments/assets/1f665f79-d1a3-464f-b4ac-3916b5d1a38b" alt="NPM" title="NPM"/>
 
 ---
@@ -39,6 +40,8 @@
 <img height="50" src="https://github.com/user-attachments/assets/958af20f-198d-465a-b381-7578c6eb136f" alt="React" title="React"/>
 <img height="50" src="https://github.com/user-attachments/assets/03517900-9c97-47d2-941f-3444f07f3745" alt="Vue" title="Vue"/>
 <img height="50" src="https://github.com/user-attachments/assets/1edfc84d-5043-42d7-aa64-ff457c98938b" alt="Angular" title="Angular"/>
+<img height="50" src="https://github.com/user-attachments/assets/2209df85-8438-4efb-8a7c-09c12c32aaa9" alt="Firebase" title="Firebase"/>
+<img height="50" src="https://github.com/user-attachments/assets/c1640d19-49ff-40f3-9cca-51e8799d6583" alt="MySQL" title="MySQL"/>
 <img height="50" src="https://github.com/user-attachments/assets/4df933c8-6bfa-4447-9a09-179a9d28388a" alt="Laravel" title="Laravel"/>
 <img height="50" src="https://github.com/user-attachments/assets/1f665f79-d1a3-464f-b4ac-3916b5d1a38b" alt="NPM" title="NPM"/>
 <img height="50" src="https://github.com/user-attachments/assets/d7f45d1e-cd03-485d-863f-5bfbb8e481d4" alt="Node.js" title="Node.js"/>
