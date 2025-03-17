@@ -11,7 +11,7 @@
 - I'm a bilingual Portuguese/English speaker.
 
 
-<a href="https://andrerosatto.vercel.app" target="_blank">Check out my portfolio</a>
+<a href="https://andrerosatto.vercel.app">Check out my portfolio</a>
 
 ---
 
