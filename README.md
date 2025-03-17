@@ -10,6 +10,9 @@
 - I started programming as a hobby over 20 years ago.
 - I'm a bilingual Portuguese/English speaker.
 
+
+<a href="https://andrerosatto.vercel.app" target="_blank">Check out my portfolio</a>
+
 ---
 
 ## Currently working with
