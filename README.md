@@ -6,7 +6,7 @@
 
 ### Welcome to my Github account!
 - I'm a front-end web developer living in Itapira, Brazil.
-- I'm currently working mainly with HTML, CSS, Javascript, Typescript, and React.
+- I'm currently working mainly with NextJS, ReactJS, React Native, Tailwind, Typescript, Javascript, HTML, and CSS.
 - I started programming as a hobby over 20 years ago.
 - I'm a bilingual Portuguese/English speaker.
 
@@ -21,11 +21,10 @@
 <img height="50" src="https://github.com/user-attachments/assets/7db5f8cb-145d-40b6-84fa-a23632ced92e" alt="Tailwind CSS" title="Tailwind CSS"/>
 <img height="50" src="https://github.com/user-attachments/assets/d8dcb273-05ed-4ba4-86b1-9bf6f882bd5e" alt="JavaScript" title="JavaScript"/>
 <img height="50" src="https://github.com/user-attachments/assets/262eb873-1f66-40c3-9261-c05604451284" alt="TypeScript" title="TypeScript"/>
+<img height="50" src="https://github.com/user-attachments/assets/4c546d44-8efa-4201-b287-eb95da502da5" alt="Next" title="Next"/>
 <img height="50" src="https://github.com/user-attachments/assets/958af20f-198d-465a-b381-7578c6eb136f" alt="React" title="React"/>
-<img height="50" src="https://github.com/user-attachments/assets/03517900-9c97-47d2-941f-3444f07f3745" alt="Vue" title="Vue"/>
 <img height="50" src="https://github.com/user-attachments/assets/872e6619-e721-4f48-81e0-8454d43380f9" alt="PHP" title="PHP"/>
-<img height="50" src="https://github.com/user-attachments/assets/c1640d19-49ff-40f3-9cca-51e8799d6583" alt="MySQL" title="MySQL"/>
-<img height="50" src="https://github.com/user-attachments/assets/2209df85-8438-4efb-8a7c-09c12c32aaa9" alt="Firebase" title="Firebase"/>
+<img height="50" src="https://github.com/user-attachments/assets/069200ca-36ca-4d7c-b758-d02cbbd469c9" alt="PostgreSQL" title="PostgreSQL"/>
 <img height="50" src="https://github.com/user-attachments/assets/1f665f79-d1a3-464f-b4ac-3916b5d1a38b" alt="NPM" title="NPM"/>
 
 ---
@@ -39,7 +38,15 @@
 
 ---
 
+## Database I've worked with
+<img height="50" src="https://github.com/user-attachments/assets/069200ca-36ca-4d7c-b758-d02cbbd469c9" alt="PostgreSQL" title="PostgreSQL"/>
+<img height="50" src="https://github.com/user-attachments/assets/c1640d19-49ff-40f3-9cca-51e8799d6583" alt="MySQL" title="MySQL"/>
+<img height="50" src="https://github.com/user-attachments/assets/2209df85-8438-4efb-8a7c-09c12c32aaa9" alt="Firebase" title="Firebase"/>
+
+---
+
 ## Tools/frameworks I've worked with
+<img height="50" src="https://github.com/user-attachments/assets/4c546d44-8efa-4201-b287-eb95da502da5" alt="Next" title="Next"/>
 <img height="50" src="https://github.com/user-attachments/assets/958af20f-198d-465a-b381-7578c6eb136f" alt="React" title="React"/>
 <img height="50" src="https://github.com/user-attachments/assets/03517900-9c97-47d2-941f-3444f07f3745" alt="Vue" title="Vue"/>
 <img height="50" src="https://github.com/user-attachments/assets/1edfc84d-5043-42d7-aa64-ff457c98938b" alt="Angular" title="Angular"/>
